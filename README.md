@@ -1,105 +1,260 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Blockchain+%26+IoT+Security+Researcher;AI%2FML+%26+Cybersecurity+Enthusiast;Let's+build+something+secure!" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome!&fontSize=60&fontAlignY=35&animation=twinkling" width="100%"/>
 
-- 🎓 **한성대학교 컴퓨터공학과** 재학 중 (빅데이터 트랙, 웹공학 트랙)
-- 🔬 **IMCS Lab. 학부연구생** - IoT 보안 및 자동차 사이버보안 연구
-- 🔐 **블록체인 & IoT 보안** 분야를 연구하고 있습니다
-- 🤖 **AI/ML, 자율주행, 로봇공학** 분야에 관심을 가지고 있습니다
+<h1>Hanbin Park</h1>
 
-## 🏆 Projects & Awards
+![BCI](https://img.shields.io/badge/🧠_Brain--Computer_Interface-6366F1?style=flat-square&logoColor=white)
+![ML](https://img.shields.io/badge/🤖_Machine_Learning-8B5CF6?style=flat-square&logoColor=white)
+![DL](https://img.shields.io/badge/🔮_Deep_Learning-A855F7?style=flat-square&logoColor=white)
 
-### 🚀 주요 프로젝트
-
-**🔗 [Blockchain-based IoT Software Update Platform](https://github.com/HSU-Blocker)** *(우수상, 2025)*
-- 블록체인과 CP-ABE를 결합한 IoT 소프트웨어 업데이트 플랫폼
-- 스마트 컨트랙트를 통한 원자적 처리, IPFS를 활용한 분산 저장
-
-**🔗 [오늘은 어디 가시나요? - 고령층을 위한 사회적, 물리적 정류장](https://github.com/HSU-ThePathWeAreGoingToWalk)** *(장려상, 2025)*
-- 노인분들을 위한 AI 챗봇 버스 정류장 시스템
-- Cisco WebEx 기술을 활용한 응급 대응 시스템
-
-**🔗 [나만의 AI 정신과 의사, 펴닝](https://github.com/HSU-NIMBUS2000)** *(최우수상, 2024)*
-- AI 기반 정신건강 상담 플랫폼
-- TTS/STT 통합, 위험도 평가 시스템
-
-**🔗 [가족을 위한 개인비서 시스템 - 히어로봇](https://github.com/kharabiner/Kairos)** *(동상, 2024)*
-- 라즈베리파이 기반 IoT 개인 비서
-- 음성 인식, 제스처 제어, 감정 분석
-
-### 🏅 수상 내역
-
-- **우수발표 논문상** - 자동차공학회 춘계학술대회 (2025.06)
-- **우수상** - 캡스톤디자인 모바일 분야, 한성대학교 (2025.05)
-- **장려상** - Cisco Innovation Challenge (2025.04)
-- **최우수상** - 한성 SW중심대학 페스티벌 (2024.11)
-- **동상** - 제21회 한성공학경진대회 (2024.09)
-
-
-## 📚 Research Experience
-
-### 🔬 논문 및 연구 활동
-
-**📝 속성 만료와 속성 레벨 키 갱신을 활용한
-CP-ABE 기반 IoT 소프트웨어 업데이트의 보안성 강화 연구** *(2저자)*
-- IoT 소프트웨어 업데이트 보안을 위한 동적 CP-ABE 프레임워크 연구
-- 속성 만료 메커니즘과 선택적 키 업데이트 기술에 중점
-- 시간 기반 속성 관리를 위한 페이딩 함수 및 부분 키 재생성 알고리즘 개발
-
-**📝 자동차 ECU 환경의 소프트웨어 업데이트를 위한 해시 함수 성능 평가 연구** *(4저자, 우수발표 논문상)*
-- 자동차 ECU 소프트웨어 무결성 검증을 위한 해시 함수 비교 분석
-- Raspberry Pi 3를 ECU 환경으로 활용한 성능 평가 수행
-- 보안, 성능, 메모리 효율성을 고려한 제한된 자원 환경에서의 해시 함수 적합성 평가
-
-## 🛠️ Tech Stack
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### 🔐 Blockchain & Security
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
-![Ganache](https://img.shields.io/badge/Ganache-D1884F?style=for-the-badge&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-00D2FF?style=for-the-badge&logo=opencv&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LLM](https://img.shields.io/badge/Large_Language_Models-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🌐 Web Development
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
-
-### 🛡️ IoT & Hardware
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Sensors](https://img.shields.io/badge/IoT_Sensors-FF6B35?style=for-the-badge&logo=hackster&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-
-## 📫 연락처
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eekfkt@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kharabiner)
 
 </div>
 
 ---
 
+## 🎓 Education
 
+**B.S. in Computer Engineering**  
+**Hansung University**, Seoul, South Korea  
+Mar. 2022 - Feb. 2026 (Expected)  
+**Specialization**: Big Data Track, Web Engineering Track
+
+---
+
+## 🔬 Research Experience
+
+### Undergraduate Researcher | IMCS Lab
+
+**Intelligent Mobility and Cybersecurity Laboratory**  
+Hansung University, Seoul, South Korea  
+*Lead by Prof. Seunghyun Park* | Feb. 2025 - Present
+
+**Research Activities:**
+- Currently working on integrating Large Language Models (LLM) and Vision-Language Models (VLM) in autonomous driving systems
+- Conducted research on Over-The-Air (OTA) software update systems for IoT devices, focusing on security architecture and implementation
+- Participated in collaborative research projects on cybersecurity technologies for automotive and IoT systems
+- Attended the Korean Society of Automotive Engineers (KSAE) conference
+
+### Publications
+
+<details open>
+<summary><b>Co-Author (2nd Author) - CP-ABE IoT Security Research</b></summary>
+
+**"Enhancing Security of IoT Software Updates via CP-ABE with Attribute Expiration and Attribute-Level Key Updates"**  
+*Advisor: Prof. Seunghyun Park*  
+Seoul, South Korea | Feb. 2025 - May 2025
+
+- Developed dynamic CP-ABE framework for IoT software update security
+- Created fading functions for time-based attribute management
+- Designed attribute-level key management system
+- Improved system efficiency with partial key regeneration algorithms
+
+</details>
+
+<details open>
+<summary><b>Co-Author (4th Author) - Automotive Hash Function Analysis (Best Presentation Award)</b></summary>
+
+**"Performance Evaluation of Hash Functions for Software Updates in Automotive ECU Environments"**  
+*Advisor: Prof. Seunghyun Park*  
+Seoul, South Korea | Feb. 2025 - May 2025
+
+- **Best Presentation Award** at KSAE Spring Conference
+- Comparative analysis of BLAKE3, SHA-256, SHA3-256, and BLAKE2
+- Performance evaluation using Raspberry Pi 3 as ECU platform
+- Optimized for resource-constrained automotive systems
+
+</details>
+
+---
+
+## 💼 Project Portfolio
+
+### Cholesterol Prediction and Health Indicator Analysis Using NHIS Health Screening Data
+**Team Member** | May 2025 - Jun. 2025  
+[📂 GitHub Repository](https://github.com/HSU-BigdataProgramming/cholesterol-prediction-nhis)
+
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/RandomForest-228B22?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/K--means-F7931E?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+- Developed machine learning models using National Health Insurance Service (NHIS) health screening data to predict cholesterol levels
+- Implemented XGBoost regression models and RandomForest classifier achieving 93.28% accuracy for obesity classification
+- Conducted K-means clustering analysis to identify four distinct health status groups across 600K+ records
+- Provided insights for personalized health management strategies
+
+---
+
+### Blockchain-based IoT Software Update Platform
+**Team Leader, Presenter** | Feb. 2025 - May 2025  
+🏅 **Excellence Award**, IMCS Lab., Hansung University  
+[📂 GitHub Repository](https://github.com/HSU-Blocker)
+
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+- Developed a decentralized software update platform combining blockchain and CP-ABE (Ciphertext-Policy Attribute-Based Encryption)
+- Implemented smart contracts for atomic processing of software distribution and payments
+- Designed distributed storage system using IPFS for efficient management of large update files
+- Established comprehensive security framework guaranteeing device authentication, data integrity, and high availability
+
+---
+
+### "Where Are You Going Today?" - Physical and Social Bus Stops for the Elderly
+**Team Member, Presenter** | Feb. 2025 - Apr. 2025  
+🎖️ **Encouragement Award**, Cisco Innovation Challenge  
+[📂 GitHub Repository](https://github.com/HSU-ThePathWeAreGoingToWalk)
+
+<img src="https://img.shields.io/badge/AI_Chatbot-blueviolet?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Cisco_WebEx-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=natural-readers&logoColor=white"/> <img src="https://img.shields.io/badge/IoT-FF6B35?style=flat-square&logo=iot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+- Developed a prototype AI chatbot system for rural bus stops using Cisco Board 70s hardware
+- Provided companionship and real-time transit information for elderly passengers, addressing social isolation
+- Implemented proactive greeting system that initiates conversation when passengers approach
+- Created emergency response system using Cisco WebEx technology for immediate situation assessment
+
+---
+
+### My Personal AI Psychiatrist, "Pyeoning"
+**Team Member** | Sep. 2024 - Nov. 2024  
+🥇 **Grand Prize**, Hansung SW-Centered University Festival  
+[📂 GitHub Repository](https://github.com/HSU-NIMBUS2000)
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/TTS/STT-4B8BBE?style=flat-square&logo=google-assistant&logoColor=white"/> <img src="https://img.shields.io/badge/ML-FF6B6B?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+- Developed AI-based mental health consultation platform to improve accessibility and reduce stigma barriers
+- Integrated TTS/STT technologies for natural conversation experiences
+- Built automated conversation summary system with medical professional review and feedback mechanisms
+- Created risk assessment system that tracks conversation patterns and alerts medical professionals when necessary
+
+---
+
+### Watermelon Game - Java Implementation with Multiplayer Features
+**Solo Developer** | Nov. 2024 - Dec. 2024  
+[📂 GitHub Repository](https://github.com/kharabiner/WatermelonGame)
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JBox2D-4A90E2?style=flat-square&logo=physics&logoColor=white"/> <img src="https://img.shields.io/badge/TCP/IP-009688?style=flat-square&logo=protocol&logoColor=white"/> <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white"/>
+
+- Independently developed Java-based recreation of popular "Watermelon Game" with 11-stage fruit evolution system
+- Implemented realistic physics simulation using JBox2D engine (gravity, collision detection, rigid body dynamics)
+- Built real-time multiplayer functionality supporting up to 5 concurrent players with TCP/IP socket programming
+- Designed comprehensive game architecture with ranking system and rematch functionality
+
+---
+
+### Family Personal Assistant System: "HeroBot"
+**Team Member, Presenter** | Jun. 2024 - Sep. 2024  
+🥉 **Bronze Prize**, 21st Hansung Engineering Competition  
+[📂 GitHub Repository](https://github.com/kharabiner/Kairos)
+
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/ML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/IoT-FF6B35?style=flat-square&logo=iot&logoColor=white"/>
+
+- Led development of comprehensive IoT personal assistant built on Raspberry Pi
+- Implemented voice command recognition for information access and smart home control
+- Developed gesture recognition capabilities for intuitive movement control
+- Created emotion analysis system that identifies facial expressions and automatically records daily highlights
+
+---
+
+## 🏆 Awards & Achievements
 
 <div align="center">
-  
-**"The secret of getting ahead is getting started"** ✨
+
+<table>
+<tr>
+<th>🎖️ Competition Awards</th>
+<th>🎓 Academic Scholarships</th>
+</tr>
+<tr>
+<td valign="top">
+
+| Year | Award | Competition | Organization |
+|:----:|-------|-------------|--------------|
+| 2025.06 | 🥇 **Best Paper Award** | KSAE Spring Conference | KSAE |
+| 2025.05 | 🥈 **Excellence Award** | Capstone Design Mobile Section | Hansung Univ. |
+| 2025.04 | 🏅 **Encouragement Award** | Cisco Innovation Challenge | Cisco |
+| 2024.11 | 🥇 **Grand Prize** | Hansung SW-Centered University Festival | Hansung Univ. |
+| 2024.09 | 🥉 **Bronze Prize** | The 21st Hansung Engineering Competition | Hansung Univ. |
+
+</td>
+<td valign="top">
+
+| Year | Scholarship | Rank |
+|:----:|-------------|:----:|
+| 2025.02 | Outstanding Talent | 🥇 1st |
+| 2024.08 | Outstanding Talent | 🥇 1st |
+| 2024.02 | Outstanding Talent | 🥇 1st |
+| 2023.02 | Outstanding Talent | 🥇 1st |
+| 2022.08 | Outstanding Competency | 🥈 2nd |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Extracurricular Activities
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 👥 DC&M Club
+**Computer Engineering**  
+Sep. 2024 - Present
+
+<img src="https://img.shields.io/badge/Study_Groups-6366F1?style=flat-square&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Competitions-success?style=flat-square&logo=trophy&logoColor=white"/>
+
+Programming study & competitions
+
+</td>
+<td width="33%" align="center">
+
+### 💻 Winter Camp 2025
+**Python & Algorithms**  
+Jan. 2025
+
+<img src="https://img.shields.io/badge/5_Days-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+Coding test preparation
+
+</td>
+<td width="33%" align="center">
+
+### 💻 Winter Camp 2023
+**C Programming**  
+Jan. 2023
+
+<img src="https://img.shields.io/badge/4_Days-C_Language-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+
+Fundamental concepts
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Date | Certification |
+|:----:|---------------|
+| 📅 2025.09.12 | **Engineer Information Processing** 🇰🇷 |
+
+</div>
+
+---
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_eekfkt@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eekfkt@naver.com)
+[![GitHub](https://img.shields.io/badge/@kharabiner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kharabiner)
+
+<img src="https://komarev.com/ghpvc/?username=kharabiner&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+
+**✨ Thanks for visiting! ✨**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
