@@ -39,11 +39,12 @@ Hansung University, Seoul, South Korea
 ### Publications
 
 <details open>
-<summary><b>Co-Author (2nd Author) - CP-ABE IoT Security Research</b></summary>
+<summary><b>Enhancing Security of IoT Software Updates via CP-ABE with Attribute Expiration and Attribute-Level Key Updates</b></summary>
 
-**"Enhancing Security of IoT Software Updates via CP-ABE with Attribute Expiration and Attribute-Level Key Updates"**  
+**Co-Author (2nd Author)**  
 *Advisor: Prof. Seunghyun Park*  
-Seoul, South Korea | Feb. 2025 - May 2025
+KSAE Spring Conference | Feb. 2025 - May 2025  
+[📄 View Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12278956)
 
 - Developed dynamic CP-ABE framework for IoT software update security
 - Created fading functions for time-based attribute management
@@ -53,13 +54,13 @@ Seoul, South Korea | Feb. 2025 - May 2025
 </details>
 
 <details open>
-<summary><b>Co-Author (4th Author) - Automotive Hash Function Analysis (Best Presentation Award)</b></summary>
+<summary><b>Performance Evaluation of Hash Functions for Software Updates in Automotive ECU Environments</b></summary>
 
-**"Performance Evaluation of Hash Functions for Software Updates in Automotive ECU Environments"**  
+**Co-Author (4th Author)** • **Best Presentation Award**  
 *Advisor: Prof. Seunghyun Park*  
-Seoul, South Korea | Feb. 2025 - May 2025
+KSAE Spring Conference | Feb. 2025 - May 2025  
+[📄 View Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12278955)
 
-- **Best Presentation Award** at KSAE Spring Conference
 - Comparative analysis of BLAKE3, SHA-256, SHA3-256, and BLAKE2
 - Performance evaluation using Raspberry Pi 3 as ECU platform
 - Optimized for resource-constrained automotive systems
@@ -69,6 +70,21 @@ Seoul, South Korea | Feb. 2025 - May 2025
 ---
 
 ## 💼 Project Portfolio
+
+### Voice Recognition-Based Software Update Techniques for SDV Environments
+**Team Leader** | Apr. 2025 - Jul. 2025  
+*IMCS Lab., Hansung University*  
+[📂 GitHub Repository](https://github.com/HSU-Blocker)
+
+<img src="https://img.shields.io/badge/Voice_Recognition-FF6B6B?style=flat-square&logo=google-assistant&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-4A90E2?style=flat-square&logo=protocol&logoColor=white"/> <img src="https://img.shields.io/badge/On--Device_LLM-8B5CF6?style=flat-square&logo=ai&logoColor=white"/> <img src="https://img.shields.io/badge/OTA-FF6B35?style=flat-square&logo=iot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+- Participated in Hansung University's 2025 Industry-Academia Collaborative Research Project in collaboration with a principal researcher from Hyundai Motor Company
+- Developed voice recognition-based software update techniques for Software-Defined Vehicle (SDV) environments
+- Enhanced existing OTA platform by integrating voice recognition functionality with trigger-based activation system for hands-free operation
+- Implemented Model Context Protocol (MCP) integration and deployed on-device Large Language Model (LLM) for intelligent decision-making
+- Enabled context-aware responses within resource-constrained IoT systems in automotive environments
+
+---
 
 ### Cholesterol Prediction and Health Indicator Analysis Using NHIS Health Screening Data
 **Team Member** | May 2025 - Jun. 2025  
