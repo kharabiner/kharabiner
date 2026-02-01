@@ -4,9 +4,8 @@
 
 <h1>Hanbin Park</h1>
 
-![BCI](https://img.shields.io/badge/🧠_Brain--Computer_Interface-6366F1?style=flat-square&logoColor=white)
-![ML](https://img.shields.io/badge/🤖_Machine_Learning-8B5CF6?style=flat-square&logoColor=white)
-![DL](https://img.shields.io/badge/🔮_Deep_Learning-A855F7?style=flat-square&logoColor=white)
+![AGI](https://img.shields.io/badge/🤖_Artificial_General_Intelligence-6366F1?style=flat-square&logoColor=white)
+![BCI](https://img.shields.io/badge/🧠_Brain--Computer_Interface-8B5CF6?style=flat-square&logoColor=white)
 
 
 </div>
@@ -233,7 +232,7 @@ Programming study & competitions
 **Tutor**  
 Jan. 2026
 
-<img src="https://img.shields.io/badge/Tutor-FF6B6B?style=flat-square&logo=teachable&logoColor=white"/>
+<img src="https://img.shields.io/badge/5_Days-C_&_Python-FF6B6B?style=flat-square&logo=teachable&logoColor=white"/>
 
 Group management & mentoring
 
