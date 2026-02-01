@@ -15,9 +15,13 @@
 
 ## 🎓 Education
 
+**M.S. in Artificial Intelligence**  
+**Korea University**, Seoul, South Korea  
+Mar. 2026 - Feb. 2028 (Expected)
+
 **B.S. in Computer Engineering**  
 **Hansung University**, Seoul, South Korea  
-Mar. 2022 - Feb. 2026 (Expected)  
+Mar. 2022 - Feb. 2026  
 **Specialization**: Big Data Track, Web Engineering Track
 
 ---
@@ -28,7 +32,7 @@ Mar. 2022 - Feb. 2026 (Expected)
 
 **Intelligent Mobility and Cybersecurity Laboratory**  
 Hansung University, Seoul, South Korea  
-*Lead by Prof. Seunghyun Park* | Feb. 2025 - Present
+*Lead by Prof. Seunghyun Park* | Feb. 2025 - Dec. 2025
 
 **Research Activities:**
 - Currently working on integrating Large Language Models (LLM) and Vision-Language Models (VLM) in autonomous driving systems
@@ -211,7 +215,7 @@ KSAE Spring Conference | Feb. 2025 - May 2025
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 👥 DC&M Club
 **Computer Engineering**  
@@ -223,9 +227,20 @@ Sep. 2024 - Present
 Programming study & competitions
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### 💻 Winter Camp 2025
+### 👨‍🏫 Programming Camp 2026
+**Tutor**  
+Jan. 2026
+
+<img src="https://img.shields.io/badge/Tutor-FF6B6B?style=flat-square&logo=teachable&logoColor=white"/>
+
+Group management & mentoring
+
+</td>
+<td width="25%" align="center">
+
+### 💻 Programming Camp 2025
 **Python & Algorithms**  
 Jan. 2025
 
@@ -234,9 +249,9 @@ Jan. 2025
 Coding test preparation
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### 💻 Winter Camp 2023
+### 💻 Programming Camp 2023
 **C Programming**  
 Jan. 2023
 
