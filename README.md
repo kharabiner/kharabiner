@@ -226,7 +226,7 @@ KSAE Spring Conference | Feb. 2025 - May 2025
 
 ### 👥 DC&M Club
 **Computer Engineering**  
-Sep. 2024 - Present
+Sep. 2024 - Feb. 2026
 
 <img src="https://img.shields.io/badge/Study_Groups-6366F1?style=flat-square&logo=bookstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Competitions-success?style=flat-square&logo=trophy&logoColor=white"/>
