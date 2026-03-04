@@ -5,7 +5,7 @@
 <h1>Hanbin Park</h1>
 
 ![AGI](https://img.shields.io/badge/🤖_Artificial_General_Intelligence-6366F1?style=flat-square&logoColor=white)
-![BCI](https://img.shields.io/badge/🧠_Brain--Computer_Interface-8B5CF6?style=flat-square&logoColor=white)
+![Reasoning](https://img.shields.io/badge/🧠_Reasoning-8B5CF6?style=flat-square&logoColor=white)
 
 
 </div>
@@ -27,14 +27,22 @@ Mar. 2022 - Feb. 2026
 
 ## 🔬 Research Experience
 
+### Graduate Researcher | PRML Lab
+
+**Pattern Recognition & Machine Learning Laboratory**  
+Korea University, Seoul, South Korea  
+*Lead by Prof. Seong-Whan Lee* | Jan. 2026 - Present
+
+**Activities:**
+- Completed the freshman basic Pattern Recognition and Artificial Intelligence seminars
+
 ### Undergraduate Researcher | IMCS Lab
 
 **Intelligent Mobility and Cybersecurity Laboratory**  
 Hansung University, Seoul, South Korea  
 *Lead by Prof. Seunghyun Park* | Feb. 2025 - Dec. 2025
 
-**Research Activities:**
-- Currently working on integrating Large Language Models (LLM) and Vision-Language Models (VLM) in autonomous driving systems
+**Activities:**
 - Conducted research on Over-The-Air (OTA) software update systems for IoT devices, focusing on security architecture and implementation
 - Participated in collaborative research projects on cybersecurity technologies for automotive and IoT systems
 - Attended the Korean Society of Automotive Engineers (KSAE) conference
